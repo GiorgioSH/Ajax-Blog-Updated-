@@ -1,0 +1,13 @@
+#div1{
+    display:flex;
+    border: groove 5px red;
+}
+
+#div2{
+    
+}
+#div3{
+    border: 5px solid blue;
+    display:flex;
+    flex-direction:column;
+}
